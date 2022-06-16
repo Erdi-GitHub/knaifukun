@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Knaifu-Kun</name>
+	<coder>Erdi</coder>
+	<version>1.0</version>
+	<release_date>202206160000</release_date>
+	<short_description>Knife Thrower Clone</short_description>
+	<long_description>A clone of the classic knife throwing game, but for the Wii!
+Controls:
+A/Shake - throw a knife
+Home - Pause/Menu
+
+This game was made in under 4 hours. If any bugs are encountered, report them at erdi.dev.contact@gmail.com</long_description>
+</app>
